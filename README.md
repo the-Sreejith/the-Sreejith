@@ -1,7 +1,9 @@
 
-# Hi there! 👋
+# Hi there! 👋 ![](https://komarev.com/ghpvc/?username=the-Sreejith&abbreviated=true)
 
 I'm **Sreejith Sreejayan**, a passionate Software Engineer dedicated to building impactful digital solutions. With expertise across mobile and web app development, I strive to create seamless user experiences and scalable systems.
+
+![the-Sreejith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-Sreejith&theme=vue-dark&hide_border=true)
 
 
 ## 🌟 About Me
@@ -40,18 +42,16 @@ I'm **Sreejith Sreejayan**, a passionate Software Engineer dedicated to building
 ### [React Canvas](https://github.com/the-Sreejith/react-canvas)
 - Miro and figma jam like application build with react and nextjs
 
+---
 
-## 🛠️ My Development Philosophy
-- **Lean Development**: Rapid iteration and continuous improvement.
-- **Agile Project Management**: Delivering value incrementally.
-- **User-Centric Design**: Prioritizing user needs in every project.
+![the-Sreejith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-Sreejith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
 ## 📫 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thesreejith/)
-- 🌐 [Portfolio](http://thesreejith.in/)
+- 🌐 [Website](http://thesreejith.in/)
 - 📨 [Email](mailto:ssjksreejith@gmail.com)
 
 ---

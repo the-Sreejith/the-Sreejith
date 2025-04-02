@@ -27,20 +27,11 @@ I'm **Sreejith Sreejayan**, a passionate Software Engineer dedicated to building
 - Built with **Flutter** and **rapid api**
 - Created with seameles user experience.
 
-### [Tic-Tac-Toe - React](https://github.com/the-Sreejith/Tic-Tac-Toe)
-- Built with **Nextjs** and **React**
-- Simple but elegent Tic Tac Toe game.
-
-### [Expressjs REST API](https://github.com/the-Sreejith/oslab2)
-- Developed a REST API to get lab code direectly to the system.
-- Used **Nodejs** and **Expressjs** to create a REST API for the file transfer.
 
 ### [Flutter Seach-to-text](https://github.com/SreejithSreejayan/Flutter_Speech_to_Text)
 - Flutter app with speach detection
 - Beautiful user interface
 
-### [React Canvas](https://github.com/the-Sreejith/react-canvas)
-- Miro and figma jam like application build with react and nextjs
 
 ---
 

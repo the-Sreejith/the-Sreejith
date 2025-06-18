@@ -15,24 +15,6 @@ I'm **Sreejith Sreejayan**, a passionate Software Engineer dedicated to building
   - Backend: **Firebase**, **SQL**, **Java**, **Python**  
   - Cloud: **AWS DynamoDB**, **S3**, **MongoDB**
 
-
-## 💡 Notable Projects
-
-### [Pregsee - Flutter](https://github.com/the-Sreejith/pregsee)
-- Built with **Flutter** and **Firebase**
-- Designed to provide a supportive and intuitive experience for expecting parents.
-- Bloc patternt, Firebase Authentication, User data collection, Firestore database, Push notification
-
-### [Google Translate Clone - Flutter](https://github.com/the-Sreejith/translator-flutter-app)
-- Built with **Flutter** and **rapid api**
-- Created with seameles user experience.
-
-
-### [Flutter Seach-to-text](https://github.com/SreejithSreejayan/Flutter_Speech_to_Text)
-- Flutter app with speach detection
-- Beautiful user interface
-
-
 ---
 
 ![the-Sreejith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-Sreejith&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
